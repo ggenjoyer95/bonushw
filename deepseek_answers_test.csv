@@ -1,0 +1,78 @@
+row_id,deepseek_raw,pred_deepseek
+0,EVT,EVT
+1,Label: LOC,LOC
+2,LOC,LOC
+3,Answer = PER,PER
+4,PRO,PRO
+5,Label: ORG,ORG
+6,LOC,LOC
+7,Answer = LOC,LOC
+8,The entity type is LOC,LOC
+9,LOC,LOC
+10,Label: LOC,LOC
+11,PER.,PER
+12,Label: PER,PER
+13,ORG.,ORG
+14,PRO,PRO
+15,LOC.,LOC
+16,LOC,LOC
+17,Answer = ORG,ORG
+18,PRO,PRO
+19,Answer = LOC,LOC
+20,ORG.,ORG
+21,ORG,ORG
+22,LOC.,LOC
+23,Label: LOC,LOC
+24,The entity type is LOC,LOC
+25,LOC.,LOC
+26,Label: EVT,EVT
+27,LOC,LOC
+28,Label: ORG,ORG
+29,Label: PER,PER
+30,PRO.,PRO
+31,Answer = PER,PER
+32,LOC.,LOC
+33,LOC,LOC
+34,PER,PER
+35,The entity type is PER,PER
+36,Label: EVT,EVT
+37,Answer = EVT,EVT
+38,EVT.,EVT
+39,The entity type is EVT,EVT
+40,The entity type is ORG,ORG
+41,Label: LOC,LOC
+42,Answer = ORG,ORG
+43,Answer = ORG,ORG
+44,Answer = EVT,EVT
+45,Label: PRO,PRO
+46,Label: PER,PER
+47,PER,PER
+48,PER,PER
+49,The entity type is LOC,LOC
+50,The entity type is LOC,LOC
+51,The entity type is PER,PER
+52,Answer = PER,PER
+53,ORG,ORG
+54,LOC,LOC
+55,Answer = ORG,ORG
+56,PER.,PER
+57,Label: PRO,PRO
+58,ORG.,ORG
+59,Label: EVT,EVT
+60,PER,PER
+61,LOC.,LOC
+62,Answer = PER,PER
+63,Label: PER,PER
+64,Label: PER,PER
+65,Answer = PER,PER
+66,Answer = ORG,ORG
+67,ORG,ORG
+68,EVT.,EVT
+69,Label: ORG,ORG
+70,LOC,LOC
+71,PRO,PRO
+72,Answer = ORG,ORG
+73,Label: PER,PER
+74,Answer = LOC,LOC
+75,Label: PRO,PRO
+76,Label: PER,PER
